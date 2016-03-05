@@ -1,3 +1,10 @@
+# =========================
+# Operating System Files
+# =========================
+
+# Windows
+# =========================
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -16,10 +23,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# =========================
-# Operating System Files
-# =========================
 
 # OSX
 # =========================
@@ -45,3 +48,30 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# =========================
+# Language Files
+# =========================
+
+# Python
+# =========================
+*.pyc
+*.pyo
+
+
+# =========================
+# IDE Files
+# =========================
+
+# PyCharm
+# =========================
+.idea/workspace.xml
+.idea/tasks.xml
+
+
+# =========================
+# Dev Files
+# =========================
+logs
+env
